@@ -23,5 +23,5 @@ services:
         value: "2"
       - key: N8N_RUNNERS_ENABLED
         value: "true"
-region: oregon
-autoDeployTrigger: commit
+        region: oregon 
+        autoDeployTrigger: commit
